@@ -164,4 +164,4 @@ W folderze `screenshots/` znajdują się przykładowe wyniki kwerend w formie zr
 
 ### Autor
 
-Projekt stworzony jako portfolio / CV project – [Twoje Imię].
+Projekt stworzony jako portfolio / CV project – Krzysztof Kubacki
